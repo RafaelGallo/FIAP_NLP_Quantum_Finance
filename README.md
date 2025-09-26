@@ -1,5 +1,18 @@
 # Case QuantumFinance – Classificador de Chamados (Disciplina NLP)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikitlearn)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-green?logo=huggingface)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-purple?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?logo=plotly)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-teal)
+![FIAP](https://img.shields.io/badge/MBA-FIAP-red)
+![Status](https://img.shields.io/badge/Projeto-Concluído-success)
+
+![log](https://github.com/RafaelGallo/FIAP_NLP_Quantum_Finance/blob/main/img/Log.png?raw=true)
+
+
 ## 📌 Contexto do Projeto
 
 A **QuantumFinance**, empresa do setor financeiro digital, mantém um canal de atendimento via chat onde os clientes relatam dúvidas, solicitações e problemas.
