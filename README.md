@@ -82,9 +82,6 @@ Testamos diferentes tamanhos de vocabulário no **TF-IDF** para identificar o me
 * **BERTimbau + ML (RandomForest, AdaBoost, LogisticRegression)**
   ![ROC BERT](https://github.com/RafaelGallo/FIAP_NLP_Quantum_Finance/blob/main/img/05.png?raw=true)
 
-Boa, Rafael 👏
-Essa imagem é essencial para explicar a base teórica do projeto (Transformers → BERTimbau). O ideal é incluir no README uma seção dedicada à **Arquitetura Transformer**, contextualizando o uso do encoder e a diferença em relação ao modelo seq2seq tradicional.
-
 ## 🏗️ Arquitetura Transformer
 
 O modelo **Transformer** (Vaswani et al., 2017) é a base para arquiteturas modernas de PLN, incluindo o **BERTimbau** utilizado neste projeto.
